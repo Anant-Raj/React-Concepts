@@ -4,6 +4,6 @@
 
 [.] The HOC patter is used share common functionalities between component with having to repeat the code.
 
-#Render Props
+# Render Props
 
 [.] The term "render prop" refer to a technique for sharing code between React components using a prop whose value is a function.
